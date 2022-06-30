@@ -1,0 +1,1 @@
+Remember to create an db.sqlite file in the root of this project!  Once this is done, feel free to delete this txt file.
